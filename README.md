@@ -40,7 +40,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-mui-starter https://github.com/octod/gatsby-starter-default
+    gatsby new my-mui-starter https://github.com/octod/gatsby-mui-starter
     ```
 
 2.  **Start developing.**
